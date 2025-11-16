@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: 'AI Engineer specializing in Generative AI, LLMs, and Machine Learning. Building intelligent systems and AI products.',
   icons: {
     icon: '/favicon.png',
-    apple: '/apple-icon.png',
+    apple: '/favicon.png',
   },
 }
 
