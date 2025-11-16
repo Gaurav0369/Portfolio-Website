@@ -8,9 +8,9 @@ import { ExternalLink } from 'lucide-react'
 const projects = [
   {
     title: 'AI Astrologer agent',
-    tagline: 'Ask about your horoscope, birth charts or zodian sign personality and more.',
+    tagline: 'Ask about your horoscope, birth charts or zodiac sign personality and more.',
     description: 'A full fledged ai astrologer agent as telegram userbot, With agentic memory.',
-    role: 'Designed bot api, prompt engineering,chat agent, agentic memory and token embedding.',
+    role: 'Designed bot api, prompt engineering, chat agent, agentic memory and token embedding.',
     features: [
       'Birth chart generation from date, time, and location',
     'Daily horoscope predictions for all zodiac signs',
@@ -42,7 +42,7 @@ const projects = [
     projectLink: 'https://github.com/Gaurav0369/Fire-detection-using-CCTV',
   },
   {
-      title: 'Photorealistic Comfyui portfolio',
+      title: 'Photorealistic ComfyUI Portfolio',
       tagline: 'Extremely surreal photorealistic content',
       description: 'Generated surreal photorealistic UGC using Flux.1 D, Qwen Image Edit, WAN2.2, Infinite Talk, and Vibe Voice through ComfyUI.',
       role: 'Built extreme cost-effective surreal generation pipeline using Flux.1 D, Qwen, WAN2.2, Infinite Talk, and Vibe Voice with custom LoRAs.',
@@ -52,14 +52,14 @@ const projects = [
         'Infinite Talk for realistic lip-sync and audio-video synchronization',
         'Vibe Voice for natural voice generation in video content',
         'Custom LoRA fine-tuning for hyper-surreal brand aesthetics',
-        'cost reduction and minute control through open-source model integration',
+        'Cost reduction and minute control through open-source model integration',
       ],
       impact: 'Achieved extreme cost reduction compared to manual content creation, influencer collabs and hiring creators.',
       tech: ['ComfyUI', 'Flux.1 D', 'Qwen Image Edit', 'WAN2.2', 'Infinite Talk', 'Vibe Voice', 'Custom LoRAs', 'prompt engineering'],
       projectLink: 'https://github.com/Gaurav0369/Comfyui-portfolio',
   },
   {
-    title: 'Self hosted home serer',
+    title: 'Self-Hosted Home Server',
     tagline: 'Free home cloud for everyone',
     description: 'Using old pc, hdd and open source softwares like trunas, nextcloud, immich, build a home server for all my personal files and photos',
     role: 'Designed and deployed home server stack with TrueNAS for OS, Nextcloud for file sync, and Immich for photo management.',

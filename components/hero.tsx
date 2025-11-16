@@ -93,7 +93,8 @@ export function Hero() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
           <Button
             size="lg"
-            className="bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-600 hover:to-purple-600 text-white"
+            variant="outline"
+            className="bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-600 hover:to-purple-600 hover:text-white"
             onClick={() =>
               document
                 .getElementById("projects")
@@ -105,7 +106,7 @@ export function Hero() {
           <Button
             size="lg"
             variant="outline"
-            className="border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/10"
+            className="border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/10 hover:text-white"
             asChild
           >
             <a

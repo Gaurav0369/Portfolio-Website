@@ -19,7 +19,7 @@ const skillCategories = [
   {
     title: 'Engineering',
     description: 'Software Development & Deployment',
-    skills: ['Python', 'FastAPI / Flask', 'REST APIs', 'Docker', 'Java', 'Git', 'Self hosting'],
+    skills: ['Python', 'FastAPI / Flask', 'REST APIs', 'Docker', 'Java', 'Git', 'Self-Hosting'],
     color: 'from-cyan-500 to-purple-500',
   },
   {

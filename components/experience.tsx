@@ -6,7 +6,7 @@ import { Badge } from '@/components/ui/badge'
 const experiences = [
   {
     title: 'Senior AI/ML Engineer',
-    company: 'Gangakoshi agritech',
+    company: 'Gangakoshi Agritech',
     period: '2023 - Present',
     description: 'Training and deployment of ML models and gen ai solutions for Agriculture at enterprise grade',
     highlights: [
@@ -27,8 +27,8 @@ const education = [
     focus: 'Machine Learning, Artificial Intelligence',
   },
   {
-    degree: 'Data science AI/ML specilization',
-    school: 'Upgrad',
+    degree: 'Data science AI/ML specialization',
+    school: 'UpGrad',
     year: '2024',
     focus: 'Data science, ML, Deep Learning, NLP, Computer Vision',
   },

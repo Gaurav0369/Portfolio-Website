@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-8 h-8 bg-gradient-to-br from-cyan-500 to-purple-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">AM</span>
+                <span className="text-white font-bold text-sm">GC</span>
               </div>
               <span className="font-semibold">Gaurav Chauhan</span>
             </div>
