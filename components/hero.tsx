@@ -106,9 +106,11 @@ export function Hero() {
             size="lg"
             variant="outline"
             className="border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/10"
+            asChild
           >
             <a
              target="_blank"
+             rel="noopener noreferrer"
              href="https://drive.google.com/file/d/1NbtcZdg1g4WOz6fjm4csGyriw43e_pPP/view">
             Download Resume </a>
           </Button>

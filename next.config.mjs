@@ -8,8 +8,8 @@ const nextConfig = {
     unoptimized: true,
   },
   // Uncomment and set this if your repo name is NOT "username.github.io"
-  basePath: '/http://gaurav-chauhan.in',
-  trailingSlash: true,
+  // basePath: '/',
+  // trailingSlash: true,
 }
 
 export default nextConfig
