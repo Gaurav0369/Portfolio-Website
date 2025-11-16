@@ -8,23 +8,10 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Gaurav Chauhan | AI Engineer & GenAI Specialist',
   description: 'AI Engineer specializing in Generative AI, LLMs, and Machine Learning. Building intelligent systems and AI products.',
-  // icons: {
-  //   icon: [
-  //     {
-  //       url: '/icon-light-32x32.png',
-  //       media: '(prefers-color-scheme: light)',
-  //     },
-  //     {
-  //       url: '/icon-dark-32x32.png',
-  //       media: '(prefers-color-scheme: dark)',
-  //     },
-  //     {
-  //       url: '/icon.svg',
-  //       type: 'image/svg+xml',
-  //     },
-  //   ],
-  //   apple: '/apple-icon.png',
-  // },
+  icons: {
+    icon: '/favicon.png',
+    apple: '/apple-icon.png',
+  },
 }
 
 export default function RootLayout({
