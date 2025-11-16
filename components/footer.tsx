@@ -31,15 +31,15 @@ export function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact Me</h4>
             <div className="flex gap-4">
-              <a target="_black"
+              <a target="_blank"
             href="https://github.com/Gaurav0369" className="p-2 rounded-lg bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/20 transition-colors">
                 <Github size={18} />
               </a>
-              <a target="_black"
+              <a target="_blank"
             href="https://www.linkedin.com/in/gauravch0369/" className="p-2 rounded-lg bg-purple-500/10 border border-purple-500/30 text-purple-400 hover:bg-purple-500/20 transition-colors">
                 <Linkedin size={18} />
               </a>
-              <a target="_black"
+              <a target="_blank"
             href="https://mail.google.com/mail/?view=cm&fs=1&to=gauravchauhan2261@gmail.com" className="p-2 rounded-lg bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/20 transition-colors">
                 <Mail size={18} />
               </a>

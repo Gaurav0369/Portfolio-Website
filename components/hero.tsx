@@ -108,7 +108,7 @@ export function Hero() {
             className="border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/10"
           >
             <a
-             target="_black"
+             target="_blank"
              href="https://drive.google.com/file/d/1NbtcZdg1g4WOz6fjm4csGyriw43e_pPP/view">
             Download Resume </a>
           </Button>
@@ -116,21 +116,21 @@ export function Hero() {
 
         <div className="flex items-center justify-center gap-6 pt-8">
           <a
-          target="_black"
+          target="_blank"
             href="https://github.com/Gaurav0369"
             className="p-3 rounded-lg bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/20 transition-colors"
           >
             <Github size={20} />
           </a>
           <a
-          target="_black"
+          target="_blank"
             href="https://www.linkedin.com/in/gauravch0369/"
             className="p-3 rounded-lg bg-purple-500/10 border border-purple-500/30 text-purple-400 hover:bg-purple-500/20 transition-colors"
           >
             <Linkedin size={20} />
           </a>
           <a
-          target="_black"
+          target="_blank"
             href="https://mail.google.com/mail/?view=cm&fs=1&to=gauravchauhan2261@gmail.com"
             className="p-3 rounded-lg bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 hover:bg-cyan-500/20 transition-colors"
           >
