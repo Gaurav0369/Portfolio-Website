@@ -139,7 +139,7 @@ export function Projects() {
                       size="sm" 
                       variant="ghost" 
                       className="gap-2 text-cyan-400 hover:text-cyan-300 hover:bg-cyan-500/10"
-                      onClick={() => window.open(project.projectLink, '_blank', 'noopener,noreferrer')}
+                      onClick={() => window.open(project.projectLink, '_blank')}
                     >
                       <ExternalLink size={16} />
                       Project Link
