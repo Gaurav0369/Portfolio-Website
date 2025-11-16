@@ -38,8 +38,18 @@ export function Navigation() {
             <button onClick={() => scrollToSection('experience')} className="text-sm text-muted-foreground hover:text-foreground transition-colors">Experience</button>
           </div>
 
-          <Button onClick={() => scrollToSection('contact')} variant="default" className="bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-600 hover:to-purple-600">
-            Get in Touch
+          <Button 
+            variant="default" 
+            className="bg-gradient-to-r from-cyan-500 to-purple-500 hover:from-cyan-600 hover:to-purple-600"
+            asChild
+          >
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=gauravchauhan2261@gmail.com"
+            >
+              Get in Touch
+            </a>
           </Button>
         </div>
       </div>
